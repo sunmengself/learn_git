@@ -4,3 +4,8 @@ sunsunsunsunsunsunsun
 	sunsunsunsunsunsunsun;
 	sunsunsunsunsunsunsun;
 }
+dudududududududu()
+{
+	dududududududuududududu;
+	dudududududududududu;
+}
